@@ -38,7 +38,7 @@
         $scope.facilitatorList =
                 [
                     {
-                        presenter: "Amit Borkar",
+                        presenter: "Srinivas Krishnarao",
                         feedbackParam1: "Depth of Knowledge displayed",
                         rating1: 1,
                         feedbackParam2: "Style of Delivery",
@@ -47,7 +47,7 @@
                         rating3: 1
                     },
                     {
-                        presenter: "Sanjeevkumar Pitambare",
+                        presenter: "Sunaina",
                         feedbackParam1: "Depth of Knowledge displayed",
                         rating1: 1,
                         feedbackParam2: "Style of Delivery",
@@ -56,7 +56,7 @@
                         rating3: 1
                     },
                     {
-                        presenter: "Chinmay Inamdar",
+                        presenter: "Sireesha",
                         feedbackParam1: "Depth of Knowledge displayed",
                         rating1: 1,
                         feedbackParam2: "Style of Delivery",
